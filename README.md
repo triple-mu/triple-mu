@@ -1,14 +1,14 @@
 <p align="left">
-<a href="https://github.com/triple-Mu">
+<a href="https://github.com/triple-mu">
 	<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=100&lines=Lin Song;AI+Researcher+%7C+AI+Engineer;DeepLearning+Model+Training+%7C+Deploying;Major+in+Computer+Vision;" alt="Typing SVG" />
 </a>
 
 <p> 
-<a href="https://github.com/triple-Mu"> 
-    <img src="https://komarev.com/ghpvc/?username=triple-Mu&color=blue" height="25px" alt="github follow" /> 
+<a href="https://github.com/triple-mu"> 
+    <img src="https://komarev.com/ghpvc/?username=triple-mu&color=blue" height="25px" alt="github follow" /> 
 </a>
-<a href="https://github.com/triple-Mu?tab=followers"> 
-    <img src="https://img.shields.io/github/followers/triple-Mu?label=Followers&style=plastic" height="25px" alt="github follow" /> </a>
+<a href="https://github.com/triple-mu?tab=followers"> 
+    <img src="https://img.shields.io/github/followers/triple-?label=Followers&style=plastic" height="25px" alt="github follow" /> </a>
 <a href="gpu@163.com"> 
     <img src="https://img.shields.io/badge/163-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="25px" alt="Email" /></a>
 <a href="https://www.zhihu.com/people/lin-song-90-40">
@@ -17,11 +17,11 @@
     <img src="https://img.shields.io/badge/bilibili-0079FF.svg?style=plastic&logo=bilibili&logoColor=white" height="25px" alt="bilibili" /></a>
 </p> 
 
-<img style="width: 50%" align="medium" src="https://github-readme-stats.vercel.app/api?username=triple-Mu&show_icons=true&hide_border=true&count_private=true" />
+<img style="width: 50%" align="medium" src="https://github-readme-stats.vercel.app/api?username=triple-mu&show_icons=true&hide_border=true&count_private=true" />
 
 <p align="left"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/triple-Mu/count.svg" />
+  <img src="https://profile-counter.glitch.me/triple-mu/count.svg" />
 </p>
 
 
@@ -29,7 +29,7 @@
 
 Let me give a brief introduction! 
 
-This is tripleMu, &#x1F923; a fix typo programmer based in Beijing, China. 
+This is triplemu, &#x1F923; a fix typo programmer based in Beijing, China. 
 
 I am participating in [mmyolo](https://github.com/open-mmlab/mmyolo) [yolov6](https://github.com/meituan/YOLOv6)  [yolov7](https://github.com/WongKinYiu/yolov7)  [yolort](https://zhiqwang.com/yolov5-rt-stack/) projects as a co-author. 
 
