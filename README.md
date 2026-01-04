@@ -16,11 +16,11 @@
     <img src="https://img.shields.io/badge/bilibili-0079FF.svg?style=plastic&logo=bilibili&logoColor=white" height="25px" alt="bilibili" /></a>
 </p> 
 
-<img style="width: 50%" align="medium" src="https://github-readme-stats.vercel.app/api?username=triple-mu&show_icons=true&hide_border=true&count_private=true" />
+### 📊 GitHub Stats & Productive Time
 
-<p align="left"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/triple-mu/count.svg" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=triple-mu&theme=nord_bright" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=triple-mu&theme=nord_bright&utcOffset=8" alt="Productive Time" />
 </p>
 
 
