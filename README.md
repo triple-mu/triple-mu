@@ -1,6 +1,5 @@
 <p align="left">
-<a href="https://github.com/triple-mu">
-	<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=100&lines=Lin Song;AI+Researcher+%7C+AI+Engineer;DeepLearning+Model+Training+%7C+Deploying;Major+in+Computer+Vision;" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&duration=2000&pause=100&width=500&height=100&lines=Lin+Song;ML+Systems+Engineer;Training%2FInference+Infra" alt="Typing SVG" />
 </a>
 
 <p> 
