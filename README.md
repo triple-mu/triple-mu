@@ -8,7 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=triple-mu&color=blue" height="25px" alt="github follow" /> 
 </a>
 <a href="https://github.com/triple-mu?tab=followers"> 
-    <img src="https://img.shields.io/github/followers/triple-?label=Followers&style=plastic" height="25px" alt="github follow" /> </a>
+    <img src="https://img.shields.io/github/followers/triple-mu?label=Followers&style=plastic" height="25px" alt="github follow" /> </a>
 <a href="gpu@163.com"> 
     <img src="https://img.shields.io/badge/163-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="25px" alt="Email" /></a>
 <a href="https://www.zhihu.com/people/lin-song-90-40">
@@ -29,7 +29,7 @@
 
 Let me give a brief introduction! 
 
-This is triplemu, &#x1F923; a fix typo programmer based in Beijing, China. 
+This is triple-mu, &#x1F923; a fix typo programmer based in Beijing, China. 
 
 I am participating in [mmyolo](https://github.com/open-mmlab/mmyolo) [yolov6](https://github.com/meituan/YOLOv6)  [yolov7](https://github.com/WongKinYiu/yolov7)  [yolort](https://zhiqwang.com/yolov5-rt-stack/) projects as a co-author. 
 
